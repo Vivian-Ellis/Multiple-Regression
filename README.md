@@ -1,1 +1,2 @@
 # Multiple-Regression
+Multiple regression will take a set of independent variables as possible predictors of a single dependent variable. Using the HBAT data set we will choose the likely hood of recommending HBAT to other firms (recommend) as the dependent variable and 13 metric variables that represent the perceptions of HBAT as the independent variables. Bock MR-1 describes the simple statistics for all the metric variables.
